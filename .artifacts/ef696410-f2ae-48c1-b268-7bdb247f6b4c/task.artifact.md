@@ -1,0 +1,5 @@
+- [x] Fix UI IDs and typos in `activity_main.xml`
+- [x] Update `MainActivity.kt` logic for alarm state transitions
+- [x] Verify alarm time display formatting
+- [x] Rename `AlaramBroadcastReceiver.kt` to `AlarmBroadcastReceiver.kt`
+- [x] Verify functionality with a test run

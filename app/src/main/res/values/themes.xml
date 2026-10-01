@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._25012012037_MAD_PRA3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#1B5E20</item>
+        <item name="colorSecondary">#388E3C</item>
+        <item name="colorTertiary">#4CAF50</item>
+    </style>
+
+    <style name="Theme._25012012037_MAD_PRA3" parent="Base.Theme._25012012037_MAD_PRA3" />
+</resources>
